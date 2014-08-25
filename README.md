@@ -1,3 +1,5 @@
+![Bullshit](bullshit.png "Bullshit!")
+
 bullshit-framework
 ==================
 
