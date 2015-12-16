@@ -28,7 +28,7 @@ A: No one really knows. Some say that it's magic. Personally, I think it's a gif
 
 Q: Where does Bullshit work?
 
-A: Where _doesn't_ Bullshit work. amiright? Bullshit can run on your own hardware or devices. The cloud is the perfect place for Bullshit. You'll find Bullshit in pretty much whatever provider you choose, includin AWS, Heroku, Azure and just about other one you can name.
+A: Where _doesn't_ Bullshit work. amiright? Bullshit can run on your own hardware or devices. The cloud is the perfect place for Bullshit. You'll find Bullshit in pretty much whatever provider you choose, including AWS, Heroku, Azure and just about other one you can name.
 
 Deploying Bullshit
 ------------------
